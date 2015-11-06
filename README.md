@@ -1,4 +1,4 @@
-Wordpress Revision Slider
+###Wordpress Revision Slider###
 
 This theme contains modifications to the Wordpress Twenty Fourteen theme which allows revisions to a post to be interactively displayed within the post itself rather than a hidden function. The goal of this software is to get readers comfortable with consuming stories written with version control.  
 
