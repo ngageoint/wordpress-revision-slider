@@ -9,4 +9,7 @@ This theme has the following dependencies:
 - diff_match_patch.js by Google (https://code.google.com/p/google-diff-match-patch/)
 - WordPress JSON API Plugin (https://wordpress.org/plugins/json-api/) 
 
+###Pic###
+The slider on the right toggles additions and substractions from the story.  
+
 ![slider](https://cloud.githubusercontent.com/assets/5178768/11008503/f80801bc-849e-11e5-95d7-794fa2700261.png)
