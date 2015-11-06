@@ -10,6 +10,6 @@ This theme has the following dependencies:
 - WordPress JSON API Plugin (https://wordpress.org/plugins/json-api/) 
 
 ###Pic###
-The slider on the right toggles additions and substractions from the story.  
+The slider on the right toggles additions and substractions from the story with red and green color codes.    
 
 ![slider](https://cloud.githubusercontent.com/assets/5178768/11008503/f80801bc-849e-11e5-95d7-794fa2700261.png)
