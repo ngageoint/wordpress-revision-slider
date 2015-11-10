@@ -13,3 +13,9 @@ This theme has the following dependencies:
 The slider on the right toggles additions and substractions from the story with red and green color codes.    
 
 ![slider](https://cloud.githubusercontent.com/assets/5178768/11008503/f80801bc-849e-11e5-95d7-794fa2700261.png)
+
+###Installation Instructions###
+
+This can be installed exactly as all other WordPress themes are installed. 
+
+1.) Place the 
