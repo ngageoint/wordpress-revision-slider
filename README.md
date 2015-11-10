@@ -18,10 +18,7 @@ The slider on the right toggles additions and substractions from the story with 
 
 This can be installed exactly as all other WordPress themes are installed. 
 
-1) Place the wordpress-revision-slider folder in the wp-content/themes directory 
-
-2) Log in to your WordPress Administration Panels.
-
-3) Select the Appearance panel, then Themes.
-
-4) From the Themes panel, activate the "Pathfinder Revision Slider" theme
+1. Place the wordpress-revision-slider folder in the `wp-content/themes` directory 
+2. Log in to your WordPress Administration Panels.
+3. Select the Appearance panel, then Themes.
+4. From the Themes panel, activate the "Pathfinder Revision Slider" theme
