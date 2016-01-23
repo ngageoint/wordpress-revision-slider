@@ -24,7 +24,7 @@ This can be installed exactly as all other WordPress themes are installed.
 4. From the Themes panel, activate the "Pathfinder Revision Slider" theme
 
 ## Origin
-Revision Slider was developed at the National Geospatial-Intelligence Agency (NGA). The government has "unlimited rights" and is releasing this software to increase the impact of government instruments by providing developers with the opportunity to take things in new directions. The software use, modification, and distribution rights are stipulated within the GNU General Public License. The GPL license is available in LICENSE.txt
+Revision Slider was developed at the National Geospatial-Intelligence Agency (NGA) by a federal government employee in the course of their employment, so it is not subject to copyright protection and is in the public domain. However, the public domain portions are considered improvements to a GPL-covered program. The software use, modification, and distribution rights are stipulated within the GNU General Public License.
 
 ###Pull Requests
 If you'd like to contribute to this project, please make a pull request. We'll review the pull request and discuss the changes. All pull request contributions to this project will be released under the GPL license.  
