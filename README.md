@@ -27,7 +27,7 @@ This can be installed exactly as all other WordPress themes are installed.
 Revision Slider was developed at the National Geospatial-Intelligence Agency (NGA) by a federal government employee in the course of their employment, so it is not subject to copyright protection and is in the public domain. However, the public domain portions are considered improvements to a GPL-covered program. The software use, modification, and distribution rights are stipulated within the GNU General Public License.
 
 ###Pull Requests
-If you'd like to contribute to this project, please make a pull request. We'll review the pull request and discuss the changes. All pull request contributions to this project will be released under the GPL license.  
+If you'd like to contribute to this project, please make a pull request. We'll review the pull request and discuss the changes. All pull request contributions to this project will be released under the GPL 2 or later license.  
 
 This project is in alpha and we need your help to improve it. 
 
